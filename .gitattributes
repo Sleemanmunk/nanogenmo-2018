@@ -1,3 +1,4 @@
 *.weights filter=lfs diff=lfs merge=lfs -text
 my_model.weights filter=lfs diff=lfs merge=lfs -text
 creepy_pasta.weights filter=lfs diff=lfs merge=lfs -text
+wt103/fwd_wt103.h5 filter=lfs diff=lfs merge=lfs -text
